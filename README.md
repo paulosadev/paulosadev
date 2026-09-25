@@ -1,49 +1,46 @@
-# Hi, I'm Paulo Sá 👋
+<h1>Paulo Sá</h1>
 
-**Full stack developer & automation builder** · Information Systems student at FACIMP Wyden · Imperatriz, MA – Brazil
+<p>
+  <b>Full stack developer</b> focused on web applications, databases and process automation.<br>
+  Information Systems student at FACIMP Wyden · Imperatriz, MA, Brazil
+</p>
 
-I build practical software that solves real business problems — from a multi-tenant SaaS ERP running in production to case-tracking systems and workflow automations that save hours of manual work. My background in sales and operations management helps me understand what users actually need before writing a line of code.
+<p>
+  <a href="https://www.linkedin.com/in/paulolevysoaresesa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:paulosaconta@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### 🚀 What I'm building
+---
 
-- **Lyvon** — multi-tenant SaaS ERP in production (TypeScript, PostgreSQL, Supabase, REST APIs) *(private)*
-- **[FocoAprova](https://github.com/paulosadev/FocoAprova)** — study planner app for exam prep: subject schedule, focus timer, question & mock-test tracking, progress dashboard
-- **Legal case tracker** *(personal project)* — web app to follow court-ordered payment cases, synced with Google Sheets and Drive
-- **Sales outreach generator** *(personal project)* — tool that writes personalized WhatsApp first-contact messages for leads using the Anthropic API
+### About
 
-### 🛠️ Tech stack
+I started in tech by building tools for problems I ran into at work. Before moving into development I worked in sales and operations, including supervising field and sales teams, and that is still the lens I use: understand the process first, then write the software.
 
-**Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+Today most of my work is on the back end and data side (PostgreSQL, Supabase, Node.js) with React on the front end, plus a fair amount of automation with n8n and Playwright to connect systems that were never meant to talk to each other.
 
-**Back-end & data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### Projects
 
-**Automation & tools**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+| Project | Description | Stack |
+|---|---|---|
+| **Lyvon** | Multi-tenant ERP delivered as SaaS and currently in production. Private repository. | TypeScript, PostgreSQL, Supabase |
+| **[FocoAprova](https://github.com/paulosadev/FocoAprova)** | Study planner for people preparing for ENEM and public exams. Subject schedule, focus timer, question and mock test log, progress dashboard, Google sign-in. | JavaScript |
+| **Case tracker** | Personal project. Web app for following up court-ordered payment cases for a group of clients, synced with Google Sheets and with documents stored in Drive. | Web, Google Sheets, Google Drive |
+| **Outreach generator** | Personal project. Generates first-contact WhatsApp messages for sales leads tailored to the lead type (existing client, cold prospect, abandoned sign-up), using the Claude API. | Anthropic API |
 
-### 📚 Currently
+### Stack
 
-- Studying Information Systems (expected 2028)
-- Certified in n8n automation (Santander / DIO, 2026)
-- Open to **internship and junior roles** in development, automation or data
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css&theme=dark" alt="Front-end and runtime"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,python,cs,git,github,vscode&theme=dark" alt="Back-end and tools">
+</p>
 
-### 📫 Get in touch
+Also: n8n, Make, Playwright, Power BI, REST APIs, Google Workspace.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulolevysoaresesa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulosaconta@gmail.com)
+### Education
+
+- **B.S. in Information Systems**, FACIMP Wyden (in progress, expected 2028)
+- **n8n Automation**, Santander / DIO (2026)
+
+### Currently
+
+Looking for internship or junior positions in software development, automation or data.
