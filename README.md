@@ -71,7 +71,7 @@ I'm studying **Information Systems at FACIMP Wyden** (expected 2028) and looking
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css&theme=dark" alt="Languages and front-end" /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,python,cs,git,github,vscode&theme=dark" alt="Back-end, data and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,python,git,github,vscode&theme=dark" alt="Back-end, data and tools" />
 </p>
 
 <p align="center">
